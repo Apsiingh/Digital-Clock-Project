@@ -1,6 +1,6 @@
 # Digital Clock  the Minner Project
 
-![Digital Clock](digital_clock.png)
+![Digital Clock](img.png)
 
 ## Overview
 
