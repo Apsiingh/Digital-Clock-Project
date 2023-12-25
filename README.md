@@ -2,4 +2,4 @@
 
 # Demo
 
-![SS](/home/apsingh/VScode/PROJECT/Digital-Clock-Project/img.jpg)
+![Digital Clock](img.jpg)
