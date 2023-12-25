@@ -22,4 +22,4 @@ This Digital Clock Project is a simple implementation of a digital clock using [
 1. Clone the repository:
 
    ```bash
-  https://github.com/Apsiingh/Digital-Clock-Project.git
+    https://github.com/Apsiingh/Digital-Clock-Project.git
